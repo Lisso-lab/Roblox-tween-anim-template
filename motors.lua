@@ -1,4 +1,3 @@
---!strict
 local C0 = {
 	["Right Shoulder"] = CFrame.new(1.5,.5,0),
 	["Left Shoulder"]  = CFrame.new(-1.5,.5,0),
@@ -18,7 +17,7 @@ local C1 = {
 
 local shortned_names = {
 	["RA"] = "Right Shoulder",
-	["LA]" = "Left Shoulder",
+	["LA]"] = "Left Shoulder",
 	["RL"] = "Right Hip",
 	["LL"] = "Left Hip",
 	["HED"] = "Neck",
