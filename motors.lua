@@ -12,4 +12,4 @@ return {C0 = {
 	['Left Hip']       = CF.n(0,1,0),
 	['Neck']           = CF.n(0,0,0),
 	['RootJoint']      = CF.n(0,0,0)
-}
+}}
