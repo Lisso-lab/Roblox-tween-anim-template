@@ -17,12 +17,12 @@ local C1 = {
 }
 
 local shortned_names = {
-	["RA"] = "Right Shoulder",
-	["LA]" = "Left Shoulder",
-	["RL"] = "Right Hip",
-	["LL"] = "Left Hip",
-	["HED"] = "Neck",
-	["TOR"] = "RootJoint"
+	["ra"] = "Right Shoulder",
+	["la]" = "Left Shoulder",
+	["rl"] = "Right Hip",
+	["ll"] = "Left Hip",
+	["hed"] = "Neck",
+	["tor"] = "RootJoint"
 }
 
 return {C0=C0, C1=C1, names=shortned_names}
