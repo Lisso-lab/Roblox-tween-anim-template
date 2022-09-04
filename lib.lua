@@ -28,6 +28,7 @@ end
 a_tmplt_lib.tween = function(inst: Instance, tween_info: TweenInfo, props): Tween
     local tween = tween_service:Create(inst, tween_info, props)
 
+    tween:Play()
     return tween
 end
 
